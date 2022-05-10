@@ -6,7 +6,7 @@
 
 https://www.oreilly.com/library/view/clean-code-a/9780136083238/
 
-Readers will come away from this book understanding
+Readers will come away from this book understanding:
 
 - How to tell the difference between good and bad code
 
@@ -20,5 +20,5 @@ Readers will come away from this book understanding
 
 - How to unit test and practice test-driven development
 
-#This book is a must for any developer, software engineer, project manager, team lead, or systems analyst with an interest in producing better code.
+**This book is a must for any developer, software engineer, project manager, team lead, or systems analyst with an interest in producing better code.**
 
