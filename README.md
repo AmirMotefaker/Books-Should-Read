@@ -26,7 +26,7 @@ Readers will come away from this book understanding:
 
 2- Python Crash Course: A Hands-On, Project-Based Introduction to Programming (2nd Edition)
 
-https://nostarch.com/pythoncrashcourse2e#content
+https://nostarch.com/pythoncrashcourse2e
 
 Python Crash Course is the world’s best-selling guide to the Python programming language. This fast-paced, thorough introduction to programming with Python will have you writing programs, solving problems, and making things that work in no time.
 
