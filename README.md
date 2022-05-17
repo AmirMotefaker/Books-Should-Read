@@ -22,6 +22,7 @@ Readers will come away from this book understanding:
 
 **This book is a must for any developer, software engineer, project manager, team lead, or systems analyst with an interest in producing better code.**
 
+-----------------------------------------------------------------------------------------------
 
 2- Python Crash Course: A Hands-On, Project-Based Introduction to Programming (2nd Edition)
 
