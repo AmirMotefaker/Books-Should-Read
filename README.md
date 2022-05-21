@@ -24,7 +24,7 @@ Readers will come away from this book understanding:
 
 -----------------------------------------------------------------------------------------------
 
-2- Python Crash Course: A Hands-On, Project-Based Introduction to Programming by @ehmatthes
+2- Python Crash Course: A Hands-On, Project-Based Introduction to Programming by @[ehmatthes](https://github.com/ehmatthes)
 
 https://nostarch.com/pythoncrashcourse2e
 
