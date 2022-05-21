@@ -40,7 +40,7 @@ As you work through the book, you’ll learn how to:
 
 -----------------------------------------------------------------------------------------------
 
-3- Python Tricks-A Buffet of Awesome Python Features by @Dan Bader
+3- Python Tricks-A Buffet of Awesome Python Features by @dbader
 
 https://realpython.com/products/python-tricks-book/
 
