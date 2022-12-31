@@ -57,7 +57,7 @@ Who Should Read This Book:
 4- Python for Data Analysis(2nd Edition) by [wesm](https://github.com/wesm)
 
 - Written by [wesm](https://github.com/wesm), the creator of the Python [pandas](https://github.com/pandas-dev/pandas) project, this book is a practical, modern introduction to data science tools in Python. It’s ideal for analysts new to Python and for Python programmers new to data science and scientific computing. 
-- Data files and related material are available on GitHub.
+- Data files and related material are available on [GitHub](https://github.com/wesm/pydata-book/tree/2nd-edition).
 
   - Use the IPython shell and Jupiter notebook for exploratory computing
   - Learn basic and advanced features in NumPy (Numerical Python)
@@ -68,5 +68,8 @@ Who Should Read This Book:
   - Analyze and manipulate regular and irregular time series data
   - Learn how to solve real-world data analysis problems with thorough, detailed examples.
 
+### The 3rd edition of Python for Data Analysis is now available as an “Open Access” HTML version on this [site](https://wesmckinney.com/book)
+
+### Materials and IPython notebooks for "Python for Data Analysis, 3rd Edition" by Wes McKinney, including updates and errata fixes can be found for free on [site](https://wesmckinney.com/book/) and [GitHub](https://github.com/wesm/pydata-book).
 
 
