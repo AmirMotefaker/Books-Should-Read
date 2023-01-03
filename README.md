@@ -1,6 +1,6 @@
 # Books
 
-# Best books which should read every programme
+# Best books which should read every programmer
 
 1- Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 
