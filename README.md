@@ -70,4 +70,4 @@ Who Should Read This Book:
 
 #### The 3rd edition of Python for Data Analysis is now available as an “Open Access” HTML version on this [site](https://wesmckinney.com/book)
 
-#### Materia and IPython notebooks for "Python for Data Analysis, 3rd Edition" by Wes McKinney, including updates and errata fixes can be found for free on [site](https://wesmckinney.com/book/) and [GitHub](https://github.com/wesm/pydata-book).
+#### Material and IPython notebooks for "Python for Data Analysis, 3rd Edition" by Wes McKinney, including updates and errata fixes can be found for free on [site](https://wesmckinney.com/book/) and [GitHub](https://github.com/wesm/pydata-book).
