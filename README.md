@@ -1,4 +1,4 @@
-# Best books which should read every programmer(Data Anlyst)
+# Best books that every programmer(Data Analyst)
 
 1- Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 
@@ -57,7 +57,7 @@ Who Should Read This Book:
 - Written by [wesm](https://github.com/wesm), the creator of the Python [pandas](https://github.com/pandas-dev/pandas) project, this book is a practical, modern introduction to data science tools in Python. It’s ideal for analysts new to Python and for Python programmers new to data science and scientific computing. 
 - Data files and related material are available on [GitHub](https://github.com/wesm/pydata-book/tree/2nd-edition).
 
-  - Use the IPython shell and Jupiter notebook for exploratory computing
+  - Use the IPython shell and Jupyter notebook for exploratory computing
   - Learn basic and advanced features in NumPy (Numerical Python)
   - Get started with data analysis tools in the pandas library
   - Use flexible tools to load, clean, transform, merge, and reshape data
