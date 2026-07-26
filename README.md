@@ -1,4 +1,4 @@
-# Best books which should read every programmer(Data Analyst)
+# Best books which should read every programmer(Data Anlyst)
 
 1- Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 
