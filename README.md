@@ -1,4 +1,4 @@
-# Best book that evey programmer(Data Analyst)
+# Best book that every programmer(Data Analyst)
 
 1- Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 
@@ -42,11 +42,11 @@ As you work through the book, you’ll learn how to:
 
 https://realpython.com/products/python-tricks-book/
 
-* The Book you'll discover Python's best practices with simple, yet practical examples.
+* The Book, you'll discover Python's best practices with simple, yet practical examples.
 
 Who Should Read This Book:
 
-- If you’re wondering which lesser known parts in Python you should know about
+- If you’re wondering which lesser-known parts in Python you should know about
 - If you’ve got experience with legacy versions of Python
 - If you’ve worked with other programming languages and you want to get up to speed with Python
 - If you want to make Python your own and learn how to write clean and Pythonic code
