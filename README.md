@@ -1,4 +1,4 @@
-# Best book that eery programmer should read(Data Analyst)
+# Best book that every programmer should read(Data Analyst)
 
 1- Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 
@@ -62,7 +62,7 @@ Who Should Read This Book:
   - Get started with data analysis tools in the pandas library
   - Use flexible tools to load, clean, transform, merge, and reshape data
   - Create informative visualizations with matplotlib
-  - Apply pandas group by facility to slice, dice, and summarize datasets
+  - Apply pandas groupby facility to slice, dice, and summarize datasets
   - Analyze and manipulate regular and irregular time series data
   - Learn how to solve real-world data analysis problems with thorough, detailed examples.
 
