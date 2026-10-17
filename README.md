@@ -46,7 +46,7 @@ https://realpython.com/products/python-tricks-book/
 
 Who Should Read This Book:
 
-- If you’re wondering which lesser-known parts in Python you should know about
+- If you’re wondering which lesser-known parts of Python you should know about
 - If you’ve got experience with legacy versions of Python
 - If you’ve worked with other programming languages and you want to get up to speed with Python
 - If you want to make Python your own and learn how to write clean and Pythonic code
