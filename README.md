@@ -1,4 +1,4 @@
-# Best book that every progammer should read(Data Analyt)
+# Best book that every progammer should read(Data Analytics)
 
 1- Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 
