@@ -62,7 +62,7 @@ Who Should Read This Book:
   - Get started with data analysis tools in the pandas library
   - Use flexible tools to load, clean, transform, merge, and reshape data
   - Create informative visualizations with matplotlib
-  - Apply pandas groupby facility to slice, dice, and summarize datasets
+  - Apply pandas groupby functionality to slice, dice, and summarize datasets
   - Analyze and manipulate regular and irregular time series data
   - Learn how to solve real-world data analysis problems with thorough, detailed examples.
 
